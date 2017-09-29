@@ -1,2 +1,1 @@
-# resources
-all not web friendly documentation
+# Ressources de Nantes.rb
