@@ -15,20 +15,23 @@ Pour l'installer, va directement sur [le site de Sublime Text](https://www.subli
 
 Nous te demandons de suivre la procédure d'installation depuis l'un des liens suivants en fonction de ton système d'exploitation. La procédure est en anglais, l'anglais étant la langue de l'informatique, ça te mettera dans le bain ;)
 
-[Je suis sur OS X (Apple)](https://guides.railsgirls.com/install#setup-for-os-x)
-
-[Je suis sur Windows](https://guides.railsgirls.com/install#setup-for-windows)
-
-[Je suis sur Linux](https://guides.railsgirls.com/install#setup-for-linux)
-
 ⚠ **Important** ⚠
 
 Certaines instructions vous demande des lignes de commandes. Il est **primordial** de les copier ligne par ligne. Une fois une ligne copier, taper sur la touche `Entrer` pour lancer la commande puis passer à la ligne suivante.
 
 ⚠ **Important** ⚠
 
+Si tu n'arrives pas au bout de l'installation, nous pourrons faire l'installation pour toi vendredi soir pendant le premier cours, pour cela nous devrons te demander le mot de passe de ton ordinateur.
 
 
-Si tu n'arrives pas au bout de l'installation, nous serons obligé de te demander ton mot de passe pour pouvoir finir l'installation vendredi pendant le premier cours.
+ **Maintenant, choisis ton système d'exploitation ci-dessous pour suivre la procédure pas à pas :**
+
+[Je suis sur OS X (Apple)](https://guides.railsgirls.com/install#setup-for-os-x)
+
+[Je suis sur Windows](https://guides.railsgirls.com/install#setup-for-windows)
+
+[Je suis sur Linux](https://guides.railsgirls.com/install#setup-for-linux)
+
+
 
 Bonne installation et à vendredi !
