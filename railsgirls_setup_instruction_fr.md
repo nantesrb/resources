@@ -13,7 +13,7 @@ Pour l'installer, va directement sur [le site de Sublime Text](https://www.subli
 
 ## 2. Installation de Ruby on Rails
 
-Nous te demandons de suivre la procédure d'installation depuis l'un des liens suivants en fonction de ton système d'exploitation. La procédure est en anglais, l'anglais étant la langue de l'informatique, ça te mettra dans le bain ;)
+Nous te demandons de suivre la procédure d'installation depuis l'un des liens suivants en fonction de ton système d'exploitation. La procédure est en anglais, l'anglais étant la langue de l'informatique, ça te mettra dans le bain 😉
 
 ⚠ **Important** ⚠
 
